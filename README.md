@@ -62,7 +62,7 @@ python fibble.py --test-ai 20
 
 | Model | Win Rate | No. of games | Avg Tries | Avg Latency | Bad Guesses | Link to WandB | By Whom |
 |-------|----------|--------------|-----------|-------------|-------------|---------------|---------|
-| gpt-3.5-turbo | 0% | 10 | 9.0 | 4.3s avg | 0 | [WandB Run](https://wandb.ai/bremen/fibble-gpt-testing/) | alfietry |
+| gpt-3.5-turbo | 0% | 10 | 9.0 | 4.3s avg | 0 | [WandB Run](https://wandb.ai/bremen/fibble-gpt-testing/) | Alfred |
 
 ## Key Findings
 
@@ -91,7 +91,3 @@ python fibble.py --test-ai 20
 ## Contributing
 
 Feel free to fork this repository and experiment with different AI models or improve the GPT-3.5 prompting strategy.
-
-## License
-
-Based on student projects from CS3560. Educational use.
