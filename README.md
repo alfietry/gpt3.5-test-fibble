@@ -240,6 +240,6 @@ After filtering all words:
 
 - **Sound Logic**: Exactly one feedback IS a lie, so any word matching truth under some hypothesis is valid
 - **Deterministic**: No LLM needed, pure constraint satisfaction
-- **Fast**: Tests millions of possibilities in milliseconds (0.010s per guess)
+- **Fast**: Tests millions of possibilities in milliseconds (2.10s per guess)
 - **Progressive**: Each guess narrows down possibilities until secret is found or impossible
 
